@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedhabeeb73
-- 👀 I’m interested in React, Laravel
+- 👀 I’m interested in Vue, React, Laravel
 - 🌱 I’m currently learning Cybersecurity Analyst
 - 💞️ I’m looking to collaborate on Laravel Project
 - 📫 How to reach me ahmed-habeeb@outlook.com
